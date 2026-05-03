@@ -90,3 +90,6 @@ Or limit threads:
 | ⛏ Mining Pool | https://pool.veneralabs.org/ |
 | 👛 Wallet | https://wallet.veneralabs.org/ |
 | 💬 Discord | https://discord.gg/CtbUTCx3m7 |
+
+
+Venera (VNR) is a RandomX-based cryptocurrency similar to Monero, optimized for CPU mining.
